@@ -85,19 +85,19 @@ namespace Scripts
                 },
                 Grids = new GridSizeDef
                 {
-                    Large = -1f,
+                    Large = 0.5f,
                     Small = 5f,
                 },
                 Armor = new ArmorDef
                 {
-                    Armor = 0.5f,
-                    Light = -1f,
+                    Armor = -1f,
+                    Light = 2f,
                     Heavy = -1f,
-                    NonArmor = -1f,
+                    NonArmor = 1.5f,
                 },
                 Shields = new ShieldDef
                 {
-                    Modifier = 2f,
+                    Modifier = 0.5f,
                     Type = Default,
                     BypassModifier = -1f,
                 },
@@ -149,8 +149,8 @@ namespace Scripts
                 {
                     Enable = true,
                     Radius = 1f, // Meters
-                    Damage = 0,
-                    Depth = 0f,
+                    Damage = 100,
+                    Depth = 1f,
                     MaxAbsorb = 0f,
                     Falloff = Linear, //.NoFalloff applies the same damage to all blocks in radius
                     //.Linear drops evenly by distance from center out to max radius

@@ -11,7 +11,8 @@ P.S. Any changes to blocks already placed will need to be updated by replacing s
 # Bugfixes Needed
 
 
-# Weapons to Re-look at
+# Weapons to potentially modify further
+Riptide Flak Turret - Potentially add projectile EOL effect so that it does explosion damage
 
 
 # Other Notes
@@ -32,7 +33,7 @@ Other (specify in [link thread])
 
 # Things to change/do
 General:
-
+- Need to evaluate all projectile-based weapons and make health adjustments, as some are currently untargetable.
  
 Ammunition Effects:
  -Examine Volume for all LG Turret Ammo. Adjust Accordingly.
