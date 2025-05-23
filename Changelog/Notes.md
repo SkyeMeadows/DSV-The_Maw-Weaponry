@@ -14,22 +14,11 @@ P.S. Any changes to blocks already placed will need to be updated by replacing s
 # Weapons to potentially modify further
 Riptide Flak Turret - Potentially add projectile EOL effect so that it does explosion damage
 
+M600 Tempest Turret - Likely needs damage buff to be a capital weapon
+M480 ??? Turret - Probably needs damage buff to be a Heavy weapon
 
 # Other Notes
 Bad to go under 1.0 second base crafting time for performance
-
-# Poll:
-8 options, Multiple choices allowed 1 will be accepted to be worked on
-
-Nyx/Sabre SG Missile
-B2-M Shrike Bomb Bay
-M8G-LS4 Longsword Missile Battery
-M98-V Crusader Focus Beam 
-PL16(-C) Gravastar Laser Turret
-XM-500 Medusa Phase Cannon
-VL6 Modulus Variable-Laser
-Other (specify in [link thread])
-
 
 # Things to change/do
 General:
@@ -37,33 +26,6 @@ General:
  
 Ammunition Effects:
  -Examine Volume for all LG Turret Ammo. Adjust Accordingly.
-
-
-# Weapons to look at for the first time
-RL6 Hydra Rocket Battery
-R1-S Interceptor Rocker Pod
-M8G-LS4 Longsword Missile Battery *
-XM-500 Medusa Phase Cannon *
-VL6 Modulus Variable-Laser *
-PL16(-C) Gravastar Laser Turret *
-Nucleon Laser Shotgun
-M-1000 Avalanche Siege Mortar
-Riptide Flak Turret
-AC85 Echo Autocannon
-ML-T8 Gladiator Tactical Launcher
-M98-T Crusader Focus Beam Turret *
-SR-75 Sentinel Smartgun
-EB-10 Nova Phase Blaster
-MG65-T Vulcan Gatling Cannon
-Argus Orb PD Laser
-B2-M Shrike Bomb Bay
-PL-16-S Gravastar Pulse Laser
-Nucleon Laser Shotgun (SG)
-PL4-S Zarya Pulse Laser
-M98-V Crusasder Focus Beam *
-EB-5A Nova Phase Blaster
-Sabre Missile *
-Nyx Missile *
 
 # Notes on specific Weapons
 ### Notes on Coilgun Balance 2-3-2025
