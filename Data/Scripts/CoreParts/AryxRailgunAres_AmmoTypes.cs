@@ -31,8 +31,8 @@ namespace Scripts
             AmmoMagazine = "GaussAmmoMagDef",
             AmmoRound = "AryxGaussAmmoWC",
             HybridRound = true, //AmmoMagazine based weapon with energy cost
-            EnergyCost = 2f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = 10000000,
+            EnergyCost = 5f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
+            BaseDamage = 1000000,
             Mass = 200, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 100000f,
@@ -130,7 +130,7 @@ namespace Scripts
             {
                 ByBlockHit = new ByBlockHitDef
                 {
-                    Enable = true,
+                    Enable = false,
                     Radius = 1.2f, // Meters
                     Damage = 1000f,
                     Depth = 3f, // Meters
@@ -150,7 +150,7 @@ namespace Scripts
                     Damage = 0f,
                     Depth = 1f,
                     MaxAbsorb = 0f,
-                    Falloff = Squeeze, //.NoFalloff applies the same damage to all blocks in radius
+                    Falloff = Pooled, //.NoFalloff applies the same damage to all blocks in radius
                     //.Linear drops evenly by distance from center out to max radius
                     //.Curve drops off damage sharply as it approaches the max radius
                     //.InvCurve drops off sharply from the middle and tapers to max radius
