@@ -16,6 +16,7 @@ Riptide Flak Turret - Potentially add projectile EOL effect so that it does expl
 
 M600 Tempest Turret - Likely needs damage buff to be a capital weapon
 M480 ??? Turret - Probably needs damage buff to be a Heavy weapon
+Sunderer Heavy Lance - Needs a damage buff against shields to be an anti-shield version of the ares
 
 # Other Notes
 Bad to go under 1.0 second base crafting time for performance
