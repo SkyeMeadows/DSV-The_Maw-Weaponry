@@ -32,8 +32,8 @@ namespace Scripts
             AmmoMagazine = "AryxHeavyCoilgunAmmo",
             AmmoRound = "850mm Ferrous",
             HybridRound = true, //AmmoMagazine based weapon with energy cost
-            EnergyCost = 10f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(7000 * AWEGlobalDamageScalar),
+            EnergyCost = 6f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
+            BaseDamage = (float)(50000 * AWEGlobalDamageScalar),
             Mass = 9, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 1500000f,
@@ -88,7 +88,7 @@ namespace Scripts
                 Characters = -1f,
                 FallOff = new FallOffDef
                 {
-                    Distance = 5000, // Distance at which max damage begins falling off.
+                    Distance = 10000000f, // Distance at which max damage begins falling off.
                     MinMultipler = 0f, // value from 0.0f to 1f where 0.1f would be a min damage of 10% of max damage.
                 },
                 Grids = new GridSizeDef
@@ -101,11 +101,11 @@ namespace Scripts
                     Armor = -1f,
                     Light = -1f,
                     Heavy = -1f,
-                    NonArmor = 5f,
+                    NonArmor = -1f,
                 },
                 Shields = new ShieldDef
                 {
-                    Modifier = 25,
+                    Modifier = 2.5f,
                     Type = Default,
                     BypassModifier = 0f,
                 },
@@ -132,10 +132,10 @@ namespace Scripts
             {
                 ByBlockHit = new ByBlockHitDef
                 {
-                    Enable = false,
-                    Radius = 0f, // Meters
-                    Damage = 0,
-                    Depth = 1f, // Meters
+                    Enable = true,
+                    Radius = 5f, // Meters
+                    Damage = (float)(50000 * AWEGlobalDamageScalar),
+                    Depth = 1.5f, // Meters
                     MaxAbsorb = 0f,
                     Falloff = Pooled, //.NoFalloff applies the same damage to all blocks in radius
                     //.Linear drops evenly by distance from center out to max radius
@@ -147,7 +147,7 @@ namespace Scripts
                 },
                 EndOfLife = new EndOfLifeDef
                 {
-                    Enable = true,
+                    Enable = false,
                     Radius = 5f, // Meters
                     Damage = (float)(35000 * AWEGlobalDamageScalar),
                     Depth = 2f,
