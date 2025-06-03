@@ -13,8 +13,8 @@
                 <Y>0.05</Y>
                 <Z>0.02</Z>
             </Size>
-            <Mass>90</Mass>
-            <Volume>50</Volume>
+            <Mass>12</Mass>
+            <Volume>15</Volume>
             <Model>Models\AWE_Ammo\AryxChordAmmo.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>36</Capacity>
@@ -39,8 +39,8 @@
                 <Y>0.1</Y>
                 <Z>0.04</Z>
             </Size>
-            <Mass>450</Mass>
-            <Volume>900</Volume>
+            <Mass>36</Mass>
+            <Volume>27</Volume>
             <Model>Models\AWE_Ammo\AryxEchoAmmo.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>30</Capacity>
@@ -67,8 +67,8 @@
                 <Y>0.05</Y>
                 <Z>0.02</Z>
             </Size>
-            <Mass>12</Mass>
-            <Volume>60</Volume>
+            <Mass>36</Mass>
+            <Volume>18</Volume>
             <Model>Models\AWE_Ammo\AryxFlakAmmo.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>50</Capacity>
@@ -92,8 +92,8 @@
                 <Y>0.1</Y>
                 <Z>0.1</Z>
             </Size>
-            <Mass>360</Mass>
-            <Volume>120</Volume>
+            <Mass>90</Mass>
+            <Volume>36</Volume>
             <Model>Models\AWE_Ammo\AryxFlakAmmo.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -120,8 +120,8 @@
                 <Y>0.05</Y>
                 <Z>0.02</Z>
             </Size>
-            <Mass>80</Mass>
-            <Volume>120</Volume>
+            <Mass>240</Mass>
+            <Volume>36</Volume>
             <Model>Models\AWE_Ammo\Aryx150mmShotgun.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>4</Capacity>
@@ -146,8 +146,8 @@
                 <Y>1</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>800</Mass>
-            <Volume>20000</Volume>
+            <Mass>2400</Mass>
+            <Volume>6000</Volume>
             <Model>Models\AWE_Ammo\AryxFerrous1200mm.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -171,8 +171,8 @@
                 <Y>1</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>9000</Mass>
-            <Volume>1000</Volume>
+            <Mass>2400</Mass>
+            <Volume>300</Volume>
             <Model>Models\AWE_Ammo\AryxFerrous500mm.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -196,8 +196,8 @@
                 <Y>1</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>1250</Mass>
-            <Volume>1000</Volume>
+            <Mass>1200</Mass>
+            <Volume>300</Volume>
             <Model>Models\AWE_Ammo\AryxFerrous115mm.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -222,8 +222,8 @@
                 <Y>2</Y>
                 <Z>2</Z>
             </Size>
-            <Mass>1500</Mass>
-            <Volume>200</Volume>
+            <Mass>4500</Mass>
+            <Volume>600</Volume>
             <Model>Models\AWE_Ammo\Aryx405mmFerrous.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -248,8 +248,8 @@
                 <Y>4</Y>
                 <Z>4</Z>
             </Size>
-            <Mass>2500</Mass>
-            <Volume>5400</Volume>
+            <Mass>7500</Mass>
+            <Volume>1620</Volume>
             <Model>Models\AWE_Ammo\Aryx850mmFerrous.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -274,8 +274,8 @@
                 <Y>0.5</Y>
                 <Z>0.025</Z>
             </Size>
-            <Mass>60</Mass>
-            <Volume>50</Volume>
+            <Mass>180</Mass>
+            <Volume>15</Volume>
             <Model>Models\Weapons\Ammo_Box.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>6</Capacity>
@@ -300,8 +300,8 @@
                 <Y>0.5</Y>
                 <Z>0.025</Z>
             </Size>
-            <Mass>60</Mass>
-            <Volume>50</Volume>
+            <Mass>180</Mass>
+            <Volume>15</Volume>
             <Model>Models\Weapons\Ammo_Box.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>6</Capacity>
@@ -326,8 +326,8 @@
                 <Y>0.5</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>60</Mass>
-            <Volume>40</Volume>
+            <Mass>180</Mass>
+            <Volume>12</Volume>
             <Model>Models\AWE_Ammo\AryxReaperAmmo.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>6</Capacity>
@@ -352,8 +352,8 @@
                 <Y>0.120</Y>
                 <Z>0.120</Z>
             </Size>
-            <Mass>1050</Mass>
-            <Volume>60</Volume>
+            <Mass>300</Mass>
+            <Volume>18</Volume>
             <Model>Models\AWE_Ammo\JudgeAmmo120mm.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>8</Capacity>
@@ -378,8 +378,8 @@
                 <Y>0.120</Y>
                 <Z>0.120</Z>
             </Size>
-            <Mass>50</Mass>
-            <Volume>60</Volume>
+            <Mass>750</Mass>
+            <Volume>18</Volume>
             <Model>Models\AWE_Ammo\Aryx120mmShell.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -403,8 +403,8 @@
                 <Y>0.2</Y>
                 <Z>0.2</Z>
             </Size>
-            <Mass>250</Mass>
-            <Volume>100</Volume>
+            <Mass>750</Mass>
+            <Volume>30</Volume>
             <Model>Models\AWE_Ammo\AryxFlakAmmo.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>60</Capacity>
@@ -428,8 +428,8 @@
                 <Y>0.4</Y>
                 <Z>0.4</Z>
             </Size>
-            <Mass>185</Mass>
-            <Volume>120</Volume>
+            <Mass>1500</Mass>
+            <Volume>36</Volume>
             <Model>Models\AWE_Ammo\Aryx240mmShell.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -454,8 +454,8 @@
                 <Y>0.4</Y>
                 <Z>0.4</Z>
             </Size>
-            <Mass>1000</Mass>
-            <Volume>240</Volume>
+            <Mass>2250</Mass>
+            <Volume>72</Volume>
             <Model>Models\AWE_Ammo\Aryx480mmShell.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -479,8 +479,8 @@
                 <Y>0.6</Y>
                 <Z>0.6</Z>
             </Size>
-            <Mass>2200</Mass>
-            <Volume>300</Volume>
+            <Mass>3000</Mass>
+            <Volume>90</Volume>
             <Model>Models\AWE_Ammo\Aryx600mmShell.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -504,8 +504,8 @@
                 <Y>1</Y>
                 <Z>0.25</Z>
             </Size>
-            <Mass>180</Mass>
-            <Volume>800</Volume>
+            <Mass>540</Mass>
+            <Volume>240</Volume>
             <Model>Models\AWE_Shrike\ARYX_ShrikeBomb.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -529,8 +529,8 @@
                 <Y>3</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>2000</Mass>
-            <Volume>4000</Volume>
+            <Mass>6000</Mass>
+            <Volume>1200</Volume>
             <Model>Models\AWE_Ammo\AryxMortarShell.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -554,8 +554,8 @@
                 <Y>12</Y>
                 <Z>2</Z>
             </Size>
-            <Mass>3000</Mass>
-            <Volume>5000</Volume>
+            <Mass>9000</Mass>
+            <Volume>1500</Volume>
             <Model>Models\AWE_Starfall\ARYXRocketArtillery_StarfallMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -580,8 +580,8 @@
                 <Y>0.125</Y>
                 <Z>0.125</Z>
             </Size>
-            <Mass>60</Mass>
-            <Volume>20</Volume>
+            <Mass>180</Mass>
+            <Volume>6</Volume>
             <Model>Models\AWE_Ammo\AryxFlechetteMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -611,8 +611,8 @@
                 <Y>1</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>400</Mass>
-            <Volume>80</Volume>
+            <Mass>1200</Mass>
+            <Volume>24</Volume>
             <Model>Models\AWE_Ammo\AryxStrikerMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -636,8 +636,8 @@
                 <Y>1</Y>
                 <Z>1</Z>
             </Size>
-            <Mass>250</Mass>
-            <Volume>50</Volume>
+            <Mass>750</Mass>
+            <Volume>15</Volume>
             <Model>Models\AWE_Ammo\AryxNewSabreMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -667,8 +667,8 @@
                 <Y>0.125</Y>
                 <Z>0.125</Z>
             </Size>
-            <Mass>30</Mass>
-            <Volume>20</Volume>
+            <Mass>90</Mass>
+            <Volume>6</Volume>
             <Model>Models\AWE_Ammo\AryxDisruptorMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -693,8 +693,8 @@
                 <Y>0.5</Y>
                 <Z>0.5</Z>
             </Size>
-            <Mass>700</Mass>
-            <Volume>3000</Volume>
+            <Mass>2100</Mass>
+            <Volume>900</Volume>
             <Model>Models\AWE_Ammo\AryxDevastatorMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -718,8 +718,8 @@
                 <Y>0.5</Y>
                 <Z>0.5</Z>
             </Size>
-            <Mass>3000</Mass>
-            <Volume>6000</Volume>
+            <Mass>9000</Mass>
+            <Volume>1800</Volume>
             <Model>Models\AWE_Ammo\ARYX_HyperionMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -743,8 +743,8 @@
                 <Y>0.3</Y>
                 <Z>0.3</Z>
             </Size>
-            <Mass>200</Mass>
-            <Volume>1000</Volume>
+            <Mass>600</Mass>
+            <Volume>300</Volume>
             <Model>Models\AWE_Ammo\AryxGladiusMissile.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -768,8 +768,8 @@
                 <Y>15</Y>
                 <Z>5.2</Z>
             </Size>
-            <Mass>15000</Mass>
-            <Volume>40000</Volume>
+            <Mass>45000</Mass>
+            <Volume>12000</Volume>
             <Model>Models\AWE_Ammo\AryxKingswordRound.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -794,8 +794,8 @@
                 <Y>0.05</Y>
                 <Z>0.02</Z>
             </Size>
-            <Mass>80</Mass>
-            <Volume>40</Volume>
+            <Mass>24</Mass>
+            <Volume>12</Volume>
             <Model>Models\AWE_Ammo\AryxAtlas40mm.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>300</Capacity>
@@ -821,8 +821,8 @@
                 <Y>0.025</Y>
                 <Z>0.01</Z>
             </Size>
-            <Mass>4</Mass>
-            <Volume>20</Volume>
+            <Mass>12</Mass>
+            <Volume>6</Volume>
             <Model>Models\AWE_Ammo\AryxAtlas40mm.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>150</Capacity>
@@ -849,7 +849,7 @@
                 <Z>0.5</Z>
             </Size>
             <Mass>300</Mass>
-            <Volume>5000</Volume>
+            <Volume>500</Volume>
             <Model>Models\AWE_Ammo\ARYX_SidekickDroneItem.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -874,7 +874,7 @@
                 <Z>0.5</Z>
             </Size>
             <Mass>350</Mass>
-            <Volume>5000</Volume>
+            <Volume>500</Volume>
             <Model>Models\AWE_Ammo\ARYX_SidekickDroneItem.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
@@ -899,7 +899,7 @@
                 <Z>0.5</Z>
             </Size>
             <Mass>290</Mass>
-            <Volume>5000</Volume>
+            <Volume>500</Volume>
             <Model>Models\AWE_Ammo\ARYX_SidekickDroneItem.mwm</Model>
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
