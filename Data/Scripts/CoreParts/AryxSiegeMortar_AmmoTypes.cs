@@ -36,7 +36,7 @@ namespace Scripts
             AmmoRound = "1000mm Avalanche Mortar Shell",
             HybridRound = false, //AmmoMagazine based weapon with energy cost
             EnergyCost = 0f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(2000 * AWEGlobalDamageScalar),
+            BaseDamage = (float)(200000 * AWEGlobalDamageScalar),
             Mass = 4000, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 2250000,
@@ -86,14 +86,14 @@ namespace Scripts
                 },
                 Armor = new ArmorDef
                 {
-                    Armor = 0.75f,
+                    Armor = 2f,
                     Light = -1f,
                     Heavy = -1f,
                     NonArmor = 1f,
                 },
                 Shields = new ShieldDef
                 {
-                    Modifier = 8f,
+                    Modifier = 1.5f,
                     Type = Default,
                     BypassModifier = -1f,
                 },
@@ -143,9 +143,9 @@ namespace Scripts
                 EndOfLife = new EndOfLifeDef
                 {
                     Enable = true,
-                    Radius = 25f, // Meters
+                    Radius = 8f, // Meters
                     Damage = (float)(50000 * AWEGlobalDamageScalar),
-                    Depth = 1f,
+                    Depth = 8f,
                     MaxAbsorb = 0f,
                     Falloff = Linear, //.NoFalloff applies the same damage to all blocks in radius
                     //.Linear drops evenly by distance from center out to max radius
