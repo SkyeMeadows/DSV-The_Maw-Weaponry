@@ -98,7 +98,7 @@ namespace Scripts
                 },
                 Shields = new ShieldDef //PHASE WEAPON - ENERGY SHIELD BYPASS
                 {
-                    Modifier = 10f,
+                    Modifier = 6f,
                     Type = Default,
                     BypassModifier = 0.75f,
                 },
