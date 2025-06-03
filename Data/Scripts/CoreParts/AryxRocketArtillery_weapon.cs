@@ -92,7 +92,7 @@ namespace Scripts {
                     MaxElevation = 90,
                     HomeAzimuth = 0, // Default resting rotation angle
                     HomeElevation = 22, // Default resting elevation
-                    InventorySize = 7.5f, // Inventory capacity in kL.
+                    InventorySize = 22.5f, // Inventory capacity in kL.
                     IdlePower = 10, // Power draw in MW while not charging, or for non-energy weapons. Defaults to 0.001.
                     Offset = Vector(x: 0, y: 0, z: 0), // Offsets the aiming/firing line of the weapon, in metres.
                     Type = BlockWeapon, // What type of weapon this is; BlockWeapon, HandWeapon, Phantom 

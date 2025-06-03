@@ -87,7 +87,7 @@ namespace Scripts
                     MinElevation = -10,
                     MaxElevation = 90,
                     FixedOffset = false,
-                    InventorySize = 0.04f,
+                    InventorySize = 0.12f,
                     Offset = Vector(x: 0, y: 0, z: 0),
                     Type = BlockWeapon, // What type of weapon this is; BlockWeapon, HandWeapon, Phantom 
                     CriticalReaction = new CriticalDef

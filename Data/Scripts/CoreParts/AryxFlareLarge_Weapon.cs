@@ -69,7 +69,7 @@ namespace Scripts
                 HardWare = new HardwareDef
                 {
                     FixedOffset = false,
-                    InventorySize = 0.03f,
+                    InventorySize = 0.09f,
                     Offset = Vector(x: 0, y: 0, z: 0),
                     Type = BlockWeapon, // BlockWeapon, HandWeapon, Phantom 
                 },

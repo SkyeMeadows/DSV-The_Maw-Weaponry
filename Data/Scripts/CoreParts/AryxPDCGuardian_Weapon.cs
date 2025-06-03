@@ -101,7 +101,7 @@ namespace Scripts
                     HomeAzimuth = 0, // Default resting rotation angle
                     HomeElevation = 20, // Default resting elevation
                     FixedOffset = false,
-                    InventorySize = 0.2f,
+                    InventorySize = 0.6f,
                     Offset = Vector(x: 0, y: 0, z: 0),
                     Type = BlockWeapon, // BlockWeapon, HandWeapon, Phantom 
                     CriticalReaction = new CriticalDef

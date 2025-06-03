@@ -87,7 +87,7 @@ namespace Scripts {
                     MaxElevation = 90,
                     HomeAzimuth = 0, // Default resting rotation angle
                     HomeElevation = 0, // Default resting elevation
-                    InventorySize = 1f, // Inventory capacity in kL.
+                    InventorySize = 3f, // Inventory capacity in kL.
                     IdlePower = 1, // Constant base power draw in MW.
                     FixedOffset = false, // Deprecated.
                     Offset = Vector(x: 0, y: 0, z: 0), // Offsets the aiming/firing line of the weapon, in metres.
