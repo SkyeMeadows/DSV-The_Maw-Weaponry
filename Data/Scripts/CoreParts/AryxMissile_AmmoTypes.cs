@@ -110,7 +110,7 @@ namespace Scripts
                 {
                     Enable = true,
                     Radius = 5, // Meters
-                    Damage = (float)(12500 * AWEGlobalDamageScalar),
+                    Damage = (float)(5000 * AWEGlobalDamageScalar),
                     Depth = 2f,
                     MaxAbsorb = 0f,
                     Falloff = Linear, //.NoFalloff applies the same damage to all blocks in radius
@@ -358,7 +358,7 @@ namespace Scripts
                 {
                     Enable = true,
                     Radius = 3, // Meters
-                    Damage = (float)(6750 * AWEGlobalDamageScalar),
+                    Damage = (float)(2750 * AWEGlobalDamageScalar),
                     Depth = 1f,
                     MaxAbsorb = 0f,
                     Falloff = Linear, //.NoFalloff applies the same damage to all blocks in radius
@@ -565,7 +565,7 @@ namespace Scripts
                 {
                     Enable = true,
                     Radius = 5, // Meters
-                    Damage = (float)(9000 * AWEGlobalDamageScalar),
+                    Damage = (float)(3000 * AWEGlobalDamageScalar),
                     Depth = 2f,
                     MaxAbsorb = 0f,
                     Falloff = Linear, //.NoFalloff applies the same damage to all blocks in radius

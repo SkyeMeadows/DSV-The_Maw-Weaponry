@@ -32,7 +32,7 @@ namespace Scripts
             AmmoRound = "720nm Laser - MODRED",
             HybridRound = false, //AmmoMagazine based weapon with energy cost
             EnergyCost = 0.5f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(35 * AWEGlobalDamageScalar),
+            BaseDamage = (float)(30 * AWEGlobalDamageScalar),
             Mass = 0, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 0f,
@@ -389,7 +389,7 @@ namespace Scripts
             AmmoRound = "580nm Laser - MODYEL",
             HybridRound = false, //AmmoMagazine based weapon with energy cost
             EnergyCost = 0.5f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(75 * AWEGlobalDamageScalar),
+            BaseDamage = (float)(65 * AWEGlobalDamageScalar),
             Mass = 0, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 0f,
@@ -746,7 +746,7 @@ namespace Scripts
             AmmoRound = "525nm Laser - MODGRN",
             HybridRound = false, //AmmoMagazine based weapon with energy cost
             EnergyCost = 0.5f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(150 * AWEGlobalDamageScalar),
+            BaseDamage = (float)(135 * AWEGlobalDamageScalar),
             Mass = 0, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 0f,
@@ -1103,7 +1103,7 @@ namespace Scripts
             AmmoRound = "450nm Laser - MODBLU",
             HybridRound = false, //AmmoMagazine based weapon with energy cost
             EnergyCost = 0.5f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(200 * AWEGlobalDamageScalar),
+            BaseDamage = (float)(180 * AWEGlobalDamageScalar),
             Mass = 0, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 0f,
@@ -1460,7 +1460,7 @@ namespace Scripts
             AmmoRound = "380nm Laser - MODVIO",
             HybridRound = false, //AmmoMagazine based weapon with energy cost
             EnergyCost = 4f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
-            BaseDamage = (float)(250 * AWEGlobalDamageScalar),
+            BaseDamage = (float)(125 * AWEGlobalDamageScalar),
             Mass = 0, // in kilograms
             Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 0f,
