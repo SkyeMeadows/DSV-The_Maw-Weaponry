@@ -38,7 +38,7 @@ namespace Scripts
             EnergyCost = 0f, //(((EnergyCost * DefaultDamage) * ShotsPerSecond) * BarrelsPerShot) * ShotsPerBarrel
             BaseDamage = (float)(200000 * AWEGlobalDamageScalar),
             Mass = 4000, // in kilograms
-            Health = 0, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
+            Health = 1000, // 0 = disabled, otherwise how much damage it can take from other trajectiles before dying.
             BackKickForce = 2250000,
             DecayPerShot = 0,
             HardPointUsable = true, // set to false if this is a shrapnel ammoType and you don't want the turret to be able to select it directly.
@@ -69,10 +69,10 @@ namespace Scripts
             DamageScales = new DamageScaleDef
             {
                 MaxIntegrity = 0f, // 0 = disabled, 1000 = any blocks with currently integrity above 1000 will be immune to damage.
-                DamageVoxels = false, // true = voxels are vulnerable to this weapon
+                DamageVoxels = true, // true = voxels are vulnerable to this weapon
                 SelfDamage = false, // true = allow self damage.
                 HealthHitModifier = 1000, // defaults to a value of 1, this setting modifies how much Health is subtracted from a projectile per hit (1 = per hit).
-                VoxelHitModifier = 0,
+                VoxelHitModifier = 0.4f,
                 Characters = 10000,
                 FallOff = new FallOffDef
                 {
