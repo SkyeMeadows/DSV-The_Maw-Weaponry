@@ -4607,7 +4607,7 @@ Size: 5x9x61
       </Id>
       <DisplayName>Doppler Radar</DisplayName>
       <Icon>Textures\GUI\Icons\Aryx_AWE_LargeRadar.dds</Icon> 	  
-      <Description>Dopplers are non-offensive systems designed for recon and scouting of enemy grids via scrollwheel-scanning. [30KM RANGE]</Description>
+      <Description>Dopplers are non-offensive systems designed for recon and scouting of enemy grids via scrollwheel-scanning. [25KM RANGE]</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="1" y="1" z="1"/>
@@ -4653,7 +4653,7 @@ Size: 5x9x61
       </Id>
       <DisplayName>Maxwell Radar</DisplayName>
       <Icon>Textures\GUI\Icons\Aryx_AWE_SmallRadar.dds</Icon>	  
-      <Description>Dopplers are non-offensive systems designed for recon and scouting of enemy grids via scrollwheel-scanning. [30KM RANGE]</Description>
+      <Description>Dopplers are non-offensive systems designed for recon and scouting of enemy grids via scrollwheel-scanning. [25KM RANGE]</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>TriangleMesh</BlockTopology>
       <Size x="2" y="4" z="2"/>
